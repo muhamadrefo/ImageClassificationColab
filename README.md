@@ -1,2 +1,3 @@
 # ImageClassificationColab
-using py.keras on image classification with dataset Batik
+Get unfiltered dataset on s.id/trainZip
+
